@@ -1,0 +1,24 @@
+.contenedor {
+    width: 400px;
+}
+
+.btn-1 {
+    display: inline-block;
+    background-color: rgb(42, 236, 58);
+    padding: 2% ;
+    color: bisque;
+    position: left;
+    right: flex;
+}
+
+.btn-2 {
+    display: inline-block;
+    background-color: rgb(42, 236, 58);
+    padding: 2%;
+    color: bisque;
+    position: left;
+}
+.centro18 {
+    text-align: center;
+}  
+
